@@ -1,8 +1,9 @@
 ### Hi there 👋
-👋 Hi, I’m Kathlyne
--👀 I’m interested in analytics and data science 
--🎓 I'm an Health Science graduate from the Stockton University
--🌱 I’m an avid self-learner
+
+- 👋 Hi, I’m Kathlyne
+- 👀 I’m interested in analytics and data science
+- 🎓 I'm an Health Science graduate from the Stockton University
+- 🌱 I’m an avid self-learner
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
