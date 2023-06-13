@@ -1,10 +1,4 @@
 ### Hi there 👋
-
-<!--
-**katonnette/katonnette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 👋 Hi, I’m Kathlyne
 -👀 I’m interested in analytics and data science 
 -🎓 I'm an Health Science graduate from the Stockton University
@@ -16,6 +10,13 @@ Here are some ideas to get you started:
 - ✉️ Please drop me a message if you have any suggestions for my projects
 - 📫 You can also reach me through my LinkedIn: https://www.linkedin.com/in/kathlyne-casimir/
 - 😄 Pronouns: she/they 
+
+<!--
+**katonnette/katonnette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+
 
 -->
 
